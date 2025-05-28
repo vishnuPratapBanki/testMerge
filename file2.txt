@@ -1,2 +1,2 @@
-file 2 modified in child again
+file 2 modified in main to create conflict
 
