@@ -1,1 +1,1 @@
-hello from MAIN
+hello from child1 again again again
